@@ -59,14 +59,12 @@ Natural Language Processing, Strong Statistical Foundation, Model Development & 
 </a>
 </p>
 
-### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/xqp1uws9bshk58gg0yipowiog?si=Zv9uxxZXRtmttQHOz2PqNA)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="(https://www.linkedin.com/in/anantha-padmanaban-k-bb1633229/)"><img src="https://img.shields.io/badge/-Anantha%20Padmanaban%20?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="(https://www.linkedin.com/in/anantha-padmanaban-k-bb1633229/)"><img src="https://img.shields.io/badge/-Anantha%20Padmanaban%20bb1633229?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:apadmanaban11k@gmail.com"><img src="https://img.shields.io/badge/-apadmanaban11k@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/pawan_1100_"><img src="https://img.shields.io/badge/-@pawan_1100_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
