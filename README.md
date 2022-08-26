@@ -66,17 +66,15 @@ Natural Language Processing, Strong Statistical Foundation, Model Development & 
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/anantha-padmanaban-k-bb1633229/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Anantha Padmanaban | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/pawan_1100_/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Anantha Padmanaban | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="mailto:apadmanaban@gmail.com" >
+  <img align="center" alt="Anantha Padmanaban | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
+
 <p>### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
