@@ -18,7 +18,7 @@
 💬 Ask me about anything, I am happy to help.\
 ✉️ &nbsp;You can shoot me an email at apadmanaban11k@gmail.com! I'll try to respond as soon as I can.\
 
-Things I'm good at 🔥
+### Things I'm good at 🔥
 
 Languages: Python,Machine Learning,Deep Learning, SQL, HTML, CSS, C++, JAVA.
 
@@ -28,6 +28,7 @@ Framework: Flask, Django
 
 
 Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
