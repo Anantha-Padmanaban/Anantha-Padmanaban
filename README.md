@@ -65,7 +65,9 @@
 </p>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anantha-Padmanaban&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Anantha-Padmanaban
+"><img alt="Anantha-Padmanaban
+'s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anantha-Padmanaban&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 -----
 Credits: [Anantha Padmanaban](https://github.com/Anantha-Padmanaban)
