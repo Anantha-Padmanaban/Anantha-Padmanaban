@@ -63,6 +63,14 @@ Natural Language Processing, Strong Statistical Foundation, Model Development & 
 
 
 
+
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Anantha-Padmanaban
+"><img alt="Anantha-Padmanaban's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anantha-Padmanaban&custom_title=Anantha-Padmanaban's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
  <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
@@ -78,12 +86,5 @@ Natural Language Processing, Strong Statistical Foundation, Model Development & 
 </a> &nbsp;&nbsp;
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Anantha-Padmanaban
-"><img alt="Anantha-Padmanaban's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anantha-Padmanaban&custom_title=Anantha-Padmanaban's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 -----
-
-
 [Anantha Padmanaban](https://github.com/Anantha-Padmanaban)
