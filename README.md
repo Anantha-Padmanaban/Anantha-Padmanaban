@@ -1,6 +1,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Anantha Padmanaban</h2>
-
+I'm a Computer Science Undergraduate  and a passionate self-taught programmer and software developer  based in Bangalore, India. I have interest in Machine Learning, Deep learning and Data Science.
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
