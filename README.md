@@ -67,7 +67,8 @@
   <br/>
    <a href="https://github.com/Anantha-Padmanaban
 "><img alt="Anantha-Padmanaban
-'s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anantha-Padmanaban&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+'s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anantha-Padmanaban&custom_title=Anantha-Padmanaban
+'s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 -----
 Credits: [Anantha Padmanaban](https://github.com/Anantha-Padmanaban)
