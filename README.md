@@ -20,7 +20,7 @@
 
 Things I'm good at 🔥
 
-Languages: Python,C++,JAVA,Machine Learning,Deep Learning, SQL, HTML, CSS.
+Languages: Python,Machine Learning,Deep Learning, SQL, HTML, CSS, C++, JAVA.
 
 Libraries & Tools: Tensorflow, Pandas, Numpy, Github, Concourse CI.
 
