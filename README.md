@@ -70,3 +70,15 @@ Credits: [Anantha Padmanaban](https://github.com/Anantha-Padmanaban)
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Anantha-Padmanaban&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anantha-Padmanaban&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
