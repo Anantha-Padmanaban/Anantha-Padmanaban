@@ -55,7 +55,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anantha-Padmanaban&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+### Spotify Playing 🎧
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
