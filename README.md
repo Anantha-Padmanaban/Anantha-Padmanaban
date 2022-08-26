@@ -67,7 +67,7 @@ Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Pro
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/xqp1uws9bshk58gg0yipowiog?si=Zv9uxxZXRtmttQHOz2PqNA)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
