@@ -16,7 +16,7 @@ I'm a Computer Science Undergraduate  and a passionate self-taught programmer an
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Sastra Deemed to be University.\
 🌱 &nbsp;I'm on track for learning more about Data Science, Machine learning, Deep learningand Cloud Architecture.\
 💬 Ask me about anything, I am happy to help.\
-✉️ &nbsp;You can shoot me an email at apadmanaban11k@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at apadmanaban11k@gmail.com! I'll try to respond as soon as I can. 
 
 ### Things I'm good at 🔥
 Programming Languages: Python, Java, C++, Database (MS SQL).
