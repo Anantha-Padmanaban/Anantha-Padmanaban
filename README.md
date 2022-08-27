@@ -40,7 +40,7 @@ Natural Language Processing, Strong Statistical Foundation, Model Development & 
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  <img src="?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 &nbsp;
     <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
 &nbsp;
@@ -48,7 +48,8 @@ Natural Language Processing, Strong Statistical Foundation, Model Development & 
 &nbsp;
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="50" height="50"/>
+<img src="https://img.shields.io/badge/MySQL-00000F" alt="Anaconda" width="50" height="50"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
