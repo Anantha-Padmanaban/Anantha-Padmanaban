@@ -53,17 +53,15 @@ Data Wrangling, Data Warehousing, Google Analytics.
 <img src="https://img.shields.io/badge/MySQL-00000F" alt="Anaconda" width="75" height="30"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="50">
 &nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Anantha-Padmanaban">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anantha-Padmanaban&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anantha-Padmanaban&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-
 
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
