@@ -23,7 +23,8 @@ Programming Languages: Python, Java, C++, Database (MS SQL).
 
 Data Visualization (Power BI, sea born), Data Analytics (pandas, Exploratory Data Analysis), Machine learning (scikit learn), Deep Learning (TesnorFlow, Keras). 
 
-Natural Language Processing, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Warehousing, Google Analytics.
+Natural Language Processing, Strong Statistical Foundation, Model Development & Evaluation Metrics, 
+Data Wrangling, Data Warehousing, Google Analytics.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
