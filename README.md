@@ -49,7 +49,7 @@ Natural Language Processing, Strong Statistical Foundation, Model Development & 
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="50" height="50"/>
-<img src="https://img.shields.io/badge/MySQL-00000F" alt="Anaconda" width="75" height="50"/>
+<img src="https://img.shields.io/badge/MySQL-00000F" alt="Anaconda" width="75" height="30"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="50">
 &nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
