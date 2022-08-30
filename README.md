@@ -54,6 +54,11 @@ Data Wrangling, Data Warehousing, Google Analytics.
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="50">
 &nbsp;
 
+
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
+&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
