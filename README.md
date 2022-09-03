@@ -53,7 +53,7 @@ Data Wrangling, Data Warehousing, Google Analytics.
 <img src="https://img.shields.io/badge/MySQL-00000F" alt="Anaconda" width="75" height="30"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="50">
 &nbsp;
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
 &nbsp;
